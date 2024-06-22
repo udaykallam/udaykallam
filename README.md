@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Uday</h1>
+<h1 align="center">Hi 👋, I'm Uday Kallam</h1>
 <h3 align="center">I enjoy in learning new technology.</h3>
 
 <img align="right" alt="img" width="450" src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*um19N_oeTKlmrHMov0O5bA.gif">
 
-- 🔭 I’m currently working on **a MERN Stack project**
+- 💻 I am a third-year B.Tech student with a strong interest in building applications. I currently have a good knowledge of Django, MERN stack, and enterprise programming.
 
-- 👯 I've done a project on **Python full stack development**
+- 🚀 I've completed projects on **Python full stack development** as well as the **MERN Stack**.
 
-- 📝 I regularly write articles on LinkedIn about the projects I am working on.
+- 🎨 I recently started my journey in UI/UX design as well.
 
 - 📫 How to reach me **udayreddykallam@gmail.com**
 
