@@ -21,9 +21,9 @@
   <a href="https://instagram.com/uday_kallam" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40"/>
   </a>
-  <a href="https://www.codechef.com/users/udaykallam" target="_blank">
+<!--   <a href="https://www.codechef.com/users/udaykallam" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="40"/>
-  </a>
+  </a> -->
   <a href="https://discord.com/users/698160739235397692" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40"/>
   </a>
