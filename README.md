@@ -53,6 +53,21 @@
 
 ---
 
+### 📈 GitHub Stats & Streak  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udaykallam&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaykallam&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykallam&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
 ### 🌱 Recent Projects  
 - **[Art Gallery Management System](https://github.com/udaykallam/ArtGallery)** – A platform for artists to showcase and sell artwork.  
 - **[Student Feedback and Analysis System](https://github.com/udaykallam/Student-Feedback-And-Analysis-Management)** – A feedback management system for students and faculty.
