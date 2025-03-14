@@ -41,16 +41,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50"/>
 </p>
 
----
-
-### 📊 GitHub Contributions Heatmap  
-<p align="center">
-  <!-- Use third-party service to generate dynamic contribution heatmap -->
-  ![GitHub Contributions Heatmap](https://github-contribution-graph.cyclic.app/user/udaykallam)
-</p>
-
----
-
 ### 📈 GitHub Stats & Streak  
 <p align="center">
   <!-- Use GitHub Readme Stats API for dynamic stats -->
