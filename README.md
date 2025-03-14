@@ -46,15 +46,9 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Contributions Heatmap  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udaykallam&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaykallam&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykallam&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github.com/udaykallam/udaykallam/blob/main/docs/assets/github-contribution-heatmap.svg" alt="GitHub Contributions Heatmap" width="100%" />
 </p>
 
 ---
@@ -65,4 +59,4 @@
 
 ---
 
-🔥 **Let's build something amazing together!** 🚀  
+🔥 **Let's build something amazing together!** 🚀
