@@ -21,9 +21,6 @@
   <a href="https://instagram.com/uday_kallam" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40"/>
   </a>
-<!--   <a href="https://www.codechef.com/users/udaykallam" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="40"/>
-  </a> -->
   <a href="https://discord.com/users/698160739235397692" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40"/>
   </a>
@@ -48,13 +45,15 @@
 
 ### 📊 GitHub Contributions Heatmap  
 <p align="center">
-  <img src="https://github.com/udaykallam/udaykallam/blob/main/docs/assets/github-contribution-heatmap.svg" alt="GitHub Contributions Heatmap" width="100%" />
+  <!-- Use third-party service to generate dynamic contribution heatmap -->
+  ![GitHub Contributions Heatmap](https://github-contribution-graph.cyclic.app/user/udaykallam)
 </p>
 
 ---
 
 ### 📈 GitHub Stats & Streak  
 <p align="center">
+  <!-- Use GitHub Readme Stats API for dynamic stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=udaykallam&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
