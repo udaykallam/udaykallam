@@ -61,7 +61,8 @@
 - **[Random Quote Generator](https://github.com/udaykallam/Random-Quote-Generator)** - Generates a random quote and enables the option to share that quote on the twitter.
 - **[Art Gallery Management System](https://github.com/udaykallam/ArtGallery)** – A platform for artists to showcase and sell artwork.  
 - **[Student Feedback and Analysis System](https://github.com/udaykallam/Student-Feedback-And-Analysis-Management)** – A feedback management system for students and faculty.
-- **[One Click Privacy Cleaner](https://github.com/udaykallam/OneClickPrivacyCleaner)** – A lightweight Chrome extension that clears cache, cookies, history, and local storage with a single click.
+- **[One Click Privacy Cleaner](https://github.com/udaykallam/OneClickPrivacyCleaner)** – A lightweight Chrome extension that clears cache, cookies, history, and local storage with a single click..
+
 
 ---
 
