@@ -46,7 +46,6 @@
 
 - 📧 [Email](mailto:2200031836cseh@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/uday-kallam-bb1124256/)
-- 💻 [GitHub](https://github.com/udaykallam)
 - 🛡 [Certifications](https://www.credly.com/users/udaykallam)
 
 ---
