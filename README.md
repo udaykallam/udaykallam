@@ -55,6 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykallam&layout=compact&theme=react" height="160"/>
 </p>
 
----
+---.
 
 > “Strive for progress, not perfection.” — Anonymous
