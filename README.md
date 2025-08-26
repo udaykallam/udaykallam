@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE @ KL University (2022–26)
-- 🛠️ Tech Stack: `Spring Boot`, `React`, `MERN`, `Django`, `MySQL`
+- 🛠️ Tech Stack: `Spring Boot`, `React`, `MERN`, `Django`, `MySQL`, `FastAPI`
 - ☁️ Certified: AWS Cloud Practitioner | Red Hat EX183 | Postman Student Expert
 - 🧠 Interests: Cloud Security, Full-Stack Dev, and Automation
 - 📈 Actively working on projects to solve real-world problems
