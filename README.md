@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Uday Reddy Kallam</h1>
 
 <p align="center">
-  <b>Computer Science Undergraduate | Full-Stack Developer | Cloud Security Enthusiast</b><br>
+  <b>Computer Science Undergraduate | Full-Stack Developer</b><br>
   🚀 Building secure and scalable web applications.
 </p>
 
