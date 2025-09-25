@@ -27,6 +27,10 @@
   `Spring Boot` + `React` + `JWT` + `MySQL`  
   Role-based access for admin, students, and faculty to manage feedback data securely.
 
+- 🔒 **One-Click Privacy Cleaner**  
+  `Chrome Extension`  
+  A lightweight browser extension that clears cache, cookies, history, and local storage with a single click — enhancing privacy and browser performance.
+
 ---
 
 ## 🧰 Tools & Tech
