@@ -61,4 +61,4 @@
 
 ---
 
-> “Strive for progress, not perfection.” — Anonymous.
+> “Strive for progress, not perfection.” — Anonymous
